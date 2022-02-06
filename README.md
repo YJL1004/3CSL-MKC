@@ -1,7 +1,9 @@
 # Cluster Center Consistency Guided Sampling Learning for Multiple Kernel Clustering
 ---
+
 authors: Jiali You, Yanglei Hou, Zhenwen Ren, Xiaojian You, Quansen Sun, Xiaobo Shen, Yuancheng Yao
 year: 2021
+
 ---
 
 ## abstract
